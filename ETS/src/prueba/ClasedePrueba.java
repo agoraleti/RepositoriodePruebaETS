@@ -13,4 +13,8 @@ public class ClasedePrueba {
 	public void metododeprueb3(){
 		
 	}
+	
+	public void metododeprueba4(){
+		
+	}
 }
