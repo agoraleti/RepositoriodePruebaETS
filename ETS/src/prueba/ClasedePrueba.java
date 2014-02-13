@@ -5,6 +5,8 @@ public class ClasedePrueba {
 	
 	public void metodoprueba(){
 		//
-		;
+	}
+	public void metododeprueba2(){
+		
 	}
 }
